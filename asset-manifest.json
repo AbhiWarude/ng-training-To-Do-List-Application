@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ng-training-To-Do-List-Application/static/css/main.0bf72927.css",
+    "main.js": "/ng-training-To-Do-List-Application/static/js/main.a8f5fa33.js",
+    "static/js/453.a6f6b83d.chunk.js": "/ng-training-To-Do-List-Application/static/js/453.a6f6b83d.chunk.js",
+    "index.html": "/ng-training-To-Do-List-Application/index.html",
+    "main.0bf72927.css.map": "/ng-training-To-Do-List-Application/static/css/main.0bf72927.css.map",
+    "main.a8f5fa33.js.map": "/ng-training-To-Do-List-Application/static/js/main.a8f5fa33.js.map",
+    "453.a6f6b83d.chunk.js.map": "/ng-training-To-Do-List-Application/static/js/453.a6f6b83d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf72927.css",
+    "static/js/main.a8f5fa33.js"
+  ]
+}
